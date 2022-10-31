@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=danangtomo)](https://github.com/LordDashMe/github-contribution-stats/)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/danangtomo)](https://git.io/awesome-stats-card)
